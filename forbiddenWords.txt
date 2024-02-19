@@ -54,12 +54,11 @@ mar20lt
 888888
 ecret
 love
-recent 4-digit years
 letmein
 abcd
 1234
-keyboard patterns like “qwerty” or “qazwsx”
-sports teams
+keyboard
+sportsteams
 cities
 food
 curse words
